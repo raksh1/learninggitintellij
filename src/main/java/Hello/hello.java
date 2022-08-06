@@ -6,6 +6,8 @@ public class hello {
         int a=1;
         int a1=2;
         a=a1*2;
+        int a2=5;
+        a2=(5*a1)*5 //added expression
         System.out.println(a);
         //added
         //addde comment
