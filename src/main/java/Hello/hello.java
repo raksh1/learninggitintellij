@@ -7,6 +7,6 @@ public class hello {
         int a1=2;
         a=a1*2;
         System.out.println(a);
-
+//checked in
     }
 }
